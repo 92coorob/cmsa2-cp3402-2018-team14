@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea/inspectionProfiles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/inc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/js" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/languages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/layouts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sass" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sass/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sass/forms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sass/layout" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sass/media" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sass/mixins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sass/modules" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sass/navigation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sass/shop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sass/site" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sass/typography" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sass/variables-site" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/template-parts" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
